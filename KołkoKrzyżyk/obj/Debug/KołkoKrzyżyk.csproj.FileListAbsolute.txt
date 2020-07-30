@@ -1,0 +1,15 @@
+C:\Users\Przemysław\source\repos\KołkoKrzyżyk\KołkoKrzyżyk\bin\Debug\KołkoKrzyżyk.exe.config
+C:\Users\Przemysław\source\repos\KołkoKrzyżyk\KołkoKrzyżyk\bin\Debug\KołkoKrzyżyk.exe
+C:\Users\Przemysław\source\repos\KołkoKrzyżyk\KołkoKrzyżyk\bin\Debug\KołkoKrzyżyk.pdb
+C:\Users\Przemysław\source\repos\KołkoKrzyżyk\KołkoKrzyżyk\obj\Debug\KołkoKrzyżyk.csprojAssemblyReference.cache
+C:\Users\Przemysław\source\repos\KołkoKrzyżyk\KołkoKrzyżyk\obj\Debug\MainWindow.g.cs
+C:\Users\Przemysław\source\repos\KołkoKrzyżyk\KołkoKrzyżyk\obj\Debug\App.g.cs
+C:\Users\Przemysław\source\repos\KołkoKrzyżyk\KołkoKrzyżyk\obj\Debug\KołkoKrzyżyk_MarkupCompile.cache
+C:\Users\Przemysław\source\repos\KołkoKrzyżyk\KołkoKrzyżyk\obj\Debug\KołkoKrzyżyk_MarkupCompile.lref
+C:\Users\Przemysław\source\repos\KołkoKrzyżyk\KołkoKrzyżyk\obj\Debug\MainWindow.baml
+C:\Users\Przemysław\source\repos\KołkoKrzyżyk\KołkoKrzyżyk\obj\Debug\KołkoKrzyżyk.g.resources
+C:\Users\Przemysław\source\repos\KołkoKrzyżyk\KołkoKrzyżyk\obj\Debug\KołkoKrzyżyk.Properties.Resources.resources
+C:\Users\Przemysław\source\repos\KołkoKrzyżyk\KołkoKrzyżyk\obj\Debug\KołkoKrzyżyk.csproj.GenerateResource.cache
+C:\Users\Przemysław\source\repos\KołkoKrzyżyk\KołkoKrzyżyk\obj\Debug\KołkoKrzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\Przemysław\source\repos\KołkoKrzyżyk\KołkoKrzyżyk\obj\Debug\KołkoKrzyżyk.exe
+C:\Users\Przemysław\source\repos\KołkoKrzyżyk\KołkoKrzyżyk\obj\Debug\KołkoKrzyżyk.pdb

@@ -1,0 +1,41 @@
+﻿<Window x:Class="KołkoKrzyżyk.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KołkoKrzyżyk"
+        mc:Ignorable="d"
+        Title="KółkoKrzyżykByC3LADYN" Height="400" Width="600" ShowInTaskbar="False" ResizeMode="NoResize">
+    <Grid Background="#FF59BDCD" HorizontalAlignment="Right" Width="593" Height="371" VerticalAlignment="Bottom">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="42*"/>
+            <RowDefinition Height="95*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="55*"/>
+            <ColumnDefinition Width="50*"/>
+            <ColumnDefinition Width="Auto" MinWidth="4"/>
+            <ColumnDefinition Width="26*"/>
+            <ColumnDefinition Width="82*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="przycisk1" Content="" Margin="54,74,97,6" Click="button_click" Grid.RowSpan="2" Grid.Column="2" Grid.ColumnSpan="2" FontSize="20" FontFamily="Arial" FontWeight="Bold"/>
+        <Button x:Name="przycisk2" Content="" Margin="48,74,32,0" VerticalAlignment="Top" RenderTransformOrigin="0.333,-5" Height="93" Click="button_click" Grid.Column="3" Grid.RowSpan="2" Grid.ColumnSpan="3" FontFamily="Arial" FontWeight="Bold" FontSize="20"/>
+        <Button x:Name="przycisk3" Content="" HorizontalAlignment="Left" Margin="51,74,0,0" VerticalAlignment="Top" Width="120" Height="93" Click="button_click" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="2" FontFamily="Arial" FontWeight="Bold" FontSize="20"/>
+        <Button x:Name="przycisk4" Content="" HorizontalAlignment="Left" Margin="54,84,0,110" Width="120" Click="button_click" Grid.Row="1" Grid.Column="2" Grid.ColumnSpan="2" Grid.RowSpan="2" FontFamily="Arial" FontWeight="Bold" FontSize="20"/>
+        <Button x:Name="przycisk5" Content="" HorizontalAlignment="Left" Margin="48,84,0,0" VerticalAlignment="Top" Width="120" Height="92" Click="button_click" Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="3" Grid.RowSpan="2" FontFamily="Arial" FontWeight="Bold" FontSize="20"/>
+        <Button x:Name="przycisk6" Content="" HorizontalAlignment="Left" Margin="51,84,0,0" VerticalAlignment="Top" Width="120" Height="92" Click="button_click" Grid.Row="1" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="2" FontSize="20" FontFamily="Arial" FontWeight="Bold"/>
+        <Button x:Name="przycisk7" Content="" HorizontalAlignment="Left" Margin="54,90,0,0" VerticalAlignment="Top" Width="120" Height="90" Click="button_click" Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="2" FontFamily="Arial" FontWeight="Bold" FontSize="20"/>
+        <Button x:Name="przycisk8" Content="" HorizontalAlignment="Left" Margin="48,90,0,0" VerticalAlignment="Top" Width="120" Height="90" Click="button_click" Grid.Row="2" Grid.Column="3" Grid.ColumnSpan="3" FontFamily="Arial" FontWeight="Bold" FontSize="20"/>
+        <Button x:Name="przycisk9" Content="" HorizontalAlignment="Left" Margin="51,90,0,0" VerticalAlignment="Top" Width="120" Height="90" Click="button_click" Grid.Row="2" Grid.Column="5" Grid.ColumnSpan="2" FontFamily="Arial" FontWeight="Bold" FontSize="20"/>
+        <Button x:Name="restartButton" Content="Restart Game" HorizontalAlignment="Left" Margin="54,15,0,0" VerticalAlignment="Top" Width="185" Click="restart_click" Height="50" Grid.ColumnSpan="2" Grid.Column="2"/>
+        <Button x:Name="restartButton_Copy" Content="Exit Game" HorizontalAlignment="Left" Margin="119,0,0,20" VerticalAlignment="Bottom" Width="185" Click="exit_click" Height="50" Grid.Column="3" Grid.ColumnSpan="4"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="6,42,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="85" Grid.ColumnSpan="3" TextChanged="TextBox_TextChanged"/>
+        <TextBox Grid.Column="6" HorizontalAlignment="Left" Height="23" Margin="106,42,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="85"/>
+        <Label Content="Gracz 1" HorizontalAlignment="Left" Margin="6,12,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3"/>
+        <Label Content="Gracz 2 " Grid.Column="6" HorizontalAlignment="Left" Margin="140,12,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
