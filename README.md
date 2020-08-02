@@ -1,3 +1,3 @@
 # TicTacToe
 FirstGame
-- draw looking bad (winner = false = draw)
+First officla version - working fine.
