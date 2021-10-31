@@ -1,3 +1,2 @@
 # TicTacToe
-FirstGame
-First officla version - working fine.
+My first project.
